@@ -29,6 +29,7 @@ The system achieved an energy-efficiency improvement of ~12% during dynamic envi
  ├── report.pdf                 # Technical Report & Design Document
  └── README.md                  # Documentation (this file)
 
+
 | Metric Evaluated              | Outcome                                                       |
 | ----------------------------- | ------------------------------------------------------------- |
 | Energy efficiency improvement | **~12% over baseline design**                                 |
